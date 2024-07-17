@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I am half finish :(
 - **##  📫 How to reach me:
   * **Gmail :** pantaman98@gmail.com
-  * **Linkedin :** https://www.linkedin.com/in/Aman Pant/
+  * **Linkedin :** https://www.linkedin.com/in/AmanPant/
   
 
 
