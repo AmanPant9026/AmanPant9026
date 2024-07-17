@@ -7,6 +7,10 @@
 - 💬 Ask me about: HTML CSS and JAVASCRIPT :)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am half finish :(
+- **##  📫 How to reach me:
+  * **Gmail :** pantaman98@gmail.com
+  * **Linkedin :** https://www.linkedin.com/in/Aman Pant/
+  
 
 
 
