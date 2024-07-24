@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I am half finish :(
 - 📫 How to reach me:
   * **Gmail :** pantaman98@gmail.com
-  * **Linkedin :**[https://www.linkedin.com/in/AmanPant/](https://www.linkedin.com/in/aman-pant-b5ab11197/)
+  * **Linkedin :** [https://www.linkedin.com/in/AmanPant/](https://www.linkedin.com/in/aman-pant-b5ab11197/)
   * **leetcode :** [https://leetcode.com/u/M4Z3KTI4qo/)https://leetcode.com/u/M4Z3KTI4qo/](https://leetcode.com/u/M4Z3KTI4qo/)
   
 
