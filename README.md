@@ -27,7 +27,7 @@ class AmanPant:
     education  = ["M.Tech CSE @ IIT Mandi (CGPA 8.67)", "B.Tech DevOps @ UPES (CGPA 8.35)"]
     focus      = ["Generative AI", "Diffusion Models", "LLMs", "Agentic Systems", "Document Intelligence"]
     gate_2024  = "AIR 1380 | 98.88 Percentile | Score 661 🏆"
-    fun_fact   = "Leading ₹1 Cr AmEx research + 100+ placement coordinators at IIT Mandi 🚀"
+    leader   = "Leading ₹1 Cr AmEx research + 100+ placement coordinators at IIT Mandi 😎"
 ```
 
 ---
