@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Aman%20Pant&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Deep%20Learning%20%7C%20Generative%20AI%20%7C%20Agentic%20Systems&descAlignY=58&descSize=14"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BB2ACF&center=true&vCenter=true&random=false&width=580&lines=AI+Software+Engineer+Intern+%40+Bosch;M.Tech+CSE+%40+IIT+Mandi+%F0%9F%8E%93;GATE+2024+%E2%80%94+AIR+1380+%7C+98.88+Percentile;Generative+AI+%7C+LLMs+%7C+Diffusion+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BB2ACF&center=true&vCenter=true&random=false&width=580&lines=AI+Software+Engineer+Intern+%40+Bosch;M.Tech+CSE+%40+IIT+Mandi+%F0%9F%8E%93;GATE+2024+%E2%80%94+AIR+1380+%7C+98.88+Percentile;Agentic+AI+%7C+Generative+AI+%7C+LLMs+%7C+Diffusion+Models)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:pantaman98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
