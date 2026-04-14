@@ -44,7 +44,7 @@ class AmanPant:
 
 ---
 
-## 🚀 Projects
+## 🚀 Top Projects
 
 **📄 Agentic Document Intelligence** &nbsp;·&nbsp; *Bosch · Dec 2025–Present*
 - End-to-end pipeline (LangChain + GLM-OCR + QWEN) extracting structured JSON from table-heavy PDFs
